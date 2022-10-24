@@ -1,0 +1,4 @@
+A123#Harry Potter and the philosopher's stone#204#500000#1997
+A157#Harry Potter and the Prisoner of Azkaban#298#540000#1999
+A674#The Hill of Dreams#134#32000#1907
+A238#Las hermanas coloradas#160#44000#1969
